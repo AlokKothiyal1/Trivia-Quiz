@@ -7,4 +7,4 @@ Trivia Quiz is a simple webpage where user can play Trivia quiz based on differe
 The Open Trivia Database provides a completely free JSON API for use in programming projects. Use of this API does not require a API Key​
 
 ## Screen-shots
-[sshot1](https://github.com/AlokKothiyal1/Trivia-Quiz/blob/master/images/Screenshot%20from%202020-06-07%2014-13-23.png)
+![sshot1](https://github.com/AlokKothiyal1/Trivia-Quiz/blob/master/images/Screenshot%20from%202020-06-07%2014-13-23.png)
