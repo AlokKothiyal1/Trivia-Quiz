@@ -1,5 +1,5 @@
 # Trivia-Quiz
-Trivia Quiz is a simple webpage where user can play Trivia quiz based on different categories & difficulties
+Trivia Quiz is a webapp where user can play Trivia quiz based on different categories & difficulties
 
 
 ## API Used - 
